@@ -12,24 +12,37 @@ Information and Data aboout QSAR research of mine
 
 
 #outline
+
   Research base on experiment result simulate drug property,mostly with compute tools, cuz most the algorithm and software are done, so the core idea is the work :) and some learning experience.
   
 #evaluation standard
+
+
   Theoretical evaluation criteria
-    topological molecular descriptor
-    Geometric molecular descriptor
-    Physical & Chemial molecular descriptor
-  Experimental evaluation criteria
+  
+    topological molecular descriptor、
+  
+    Geometric molecular descriptor、
+    
+    Physical & Chemial molecular descriptor}
+  
+  Experimental evaluation criteria{
+    
     Experimental molecular descriptor
-      LogP、molar refractive index、dipole moment、polarizability 
+    
+    LogP、molar refractive index、dipole moment、polarizability] 
+    
     Theoretical molecular descriptor
-      Atomic number、Molecular number
-   Criteria:quantity description of abstract property
+    
+    Atomic number、Molecular number
+   
+   Criteria:quantity description of abstract property]
    
 -------
 
 
 #Program flow
+  
   Data sorting
   
   Molecular structure drawing
@@ -37,33 +50,46 @@ Information and Data aboout QSAR research of mine
   
   Modeling
   [software:Sybyl]
+  
     Molecular structure optmize
+  
     Database sort
+    
     Alignment molecular
+    
     Dataprocessing
+    
       CoMFA
+    
       CoMSIA
   
  
 ## software list
+  
   Chemdraw
+  
   Sybyl
   
 #Attribute data
-  name
-  descriptor
-  lg(ic50)
-  pIC50
+  
+  name、
+  descriptor、
+  lg(ic50)、
+  pIC50、
   
 #database sort
+  
   train group
-  test group
+  、test group
  
 #data analysis(have not learned totally QwQ)
-  Weka
-  SPSS
-  e-Dragon
+ 
+  Weka、
+  SPSS、
+  e-Dragon、
+  
 -------
+
 # paper resource
 
   https://pan.baidu.com/s/1LqcH9JDLjpVjSpbk4gOLWQ
