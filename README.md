@@ -94,6 +94,13 @@ Information and Data aboout QSAR research of mine
 
   https://pan.baidu.com/s/1LqcH9JDLjpVjSpbk4gOLWQ
   
+# field paper note 
+  
+  3D QSAR and Molecular Docking(对接） Studies of Benzimidazol(苯并咪唑） Derivatives as Hepatitis(肝炎） C Virus NS5B Polymerase Inhibitor  
+
+
+  https://docs.google.com/document/d/1hxyEAX1HBz_scmZbFqi1qZRL8p4mmGMCwJR4MpJ4nH8/edit?usp=sharing
+  
   have fun:)
   
   
