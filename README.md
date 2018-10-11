@@ -67,7 +67,7 @@ Information and Data aboout QSAR research of mine
   Sample 
   IC50
   
-LHS3 
+>LHS3 
 2.127104798
 
 LHS5 
@@ -215,33 +215,30 @@ NC49
   
 #Attribute data
   
-  name、
-  descriptor、
-  lg(ic50)、
-  pIC50、
+  name
+  descriptor
+  lg(ic50)
+  pIC50
   
 #database sort
   
   train group
-  、test group
+  test group
  
 #data analysis(have not learned totally QwQ)
  
-  Weka、
-  SPSS、
-  e-Dragon、
+  Weka
+  SPSS
+  e-Dragon
   
 -------
 
 # paper resource
 
-  origin paper 
+  [origin paper] (https://pan.baidu.com/s/1Zjdkp7DrCrM9GmlxRWMKrQ)
 
-  https://pan.baidu.com/s/1Zjdkp7DrCrM9GmlxRWMKrQ
-
-  reference paper
-
-  https://pan.baidu.com/s/1LqcH9JDLjpVjSpbk4gOLWQ
+  [reference paper]
+  (https://pan.baidu.com/s/1LqcH9JDLjpVjSpbk4gOLWQ)
   
 # field paper note 
   
