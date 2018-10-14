@@ -38,6 +38,16 @@ Information and Data aboout QSAR research of mine
    
    Criteria:quantity description of abstract property]
    
+   Simulation method
+    
+      CoMFA 
+        
+        Comparative molecular field analysis
+      
+      CoMSIA
+      
+        Comparative moeluar similarity indices analysis
+   
 -------
 
 
@@ -70,43 +80,43 @@ Information and Data aboout QSAR research of mine
 >LHS3 
 2.127104798
 
-LHS5 
+>LHS5 
 1.924
 
-LHS6 
+>LHS6 
 2.879
 
-LHS7 
+>LHS7 
 2.985
 
-LHS8 
+>LHS8 
 3.301
 
-SI4 
+>SI4 
 1.279
 
-SI36 
+>SI36 
 1.556
 
-SI37 
+>SI37 
 2.288
 
-SI38 
+>SI38 
 1
 
-SI39 
+>SI39 
 1.279
 
-SI40 
+>SI40 
 1.279
 
-MP4 
+>MP4 
 1.279
 
-MP29 
+>MP29 
 1.380
 
-MP30 
+>MP30 
 1.342
 
 MP31 
