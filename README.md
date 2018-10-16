@@ -69,9 +69,9 @@ Information and Data aboout QSAR research of mine
     
     Dataprocessing
     
-      CoMFA
+      CoMFA[Comparative molecular field analysis]
     
-      CoMSIA
+      CoMSIA[Comparative molecular similarity indices analysis]
 ## DATA
 
   Sample 
@@ -119,100 +119,100 @@ Information and Data aboout QSAR research of mine
 >MP30 
 1.342
 
-MP31 
+>MP31 
 2.220
 
-MP32 
+>MP32 
 1.740
 
-MP33 
+>MP33 
 3.699
 
-MP34 
+>MP34 
 1.663
 
-MP35 
+>MP35 
 1.342
 
-NC50 
+>NC50 
 4.699
 
-NC51 
+>NC51 
 1
 
-RHS4 
+>RHS4 
 1.279
 
-RHS5 
+>RHS5 
 1.924
 
-RHS15 
+>RHS15 
 1.785
 
-RHS16 
+>RHS16 
 1.230
 
-RHS17 
+>RHS17 
 1.544
 
-RHS18 
+>RHS18 
 3.279
 
-RHS19 
+>RHS19 
 2.176
 
-RHS20 
+>RHS20 
 2.057
 
-RHS21 
+>RHS21 
 1.940
 
-RHS22
+>RHS22
 2.678
 
-RHS23 
+>RHS23 
 3.287
 
-RHS24 
+>RHS24 
 2.199
 
-RHS25 
+>RHS25 
 2.465
 
-RHS26 
+>RHS26 
 2.679
 
-SA9 
+>SA9 
 2.624
 
-SA10 
+>SA10 
 2.732
 
-SA11 
+>SA11 
 2.470
 
-SA12 
+>SA12 
 3.903
 
-SA13 
+>SA13 
 2.921
 
-SA14 
+>SA14 
 2.464
 
-SI4 
+>SI4 
 1.279
 
-SI36 
+>SI36 
 1.279
 
-SI39 
+>SI39 
 1
 
-SI40 
+>SI40 
 1.279
 
-NC49 
+>NC49 
 3.4140
 
 
@@ -241,6 +241,24 @@ NC49
   SPSS
   e-Dragon
   
+  
+# Method commonly used model database
+ 
+ Partial Squares Analysis (PLS)
+ 
+ The search for a correlation between biological activity (dependent variable) and calculated potentials(independentvariables)forCoMFAandCoMSIAwascarriedoutbymeansofPLSstatistical analysis. Regression analysis was performed through leave-one-out (LOO) cross-validation procedure using SAMPLS method 
+ 
+ In CoMFA and CoMSIA, the cross-validation analysis was applied to determine the value of the cross-validation coefﬁcient (q2), the cross-validated standard error of predictions (SEP), and the optimal number of components (N). The q2 value is a measure of the internal quality of the models which was calculated using the following formula:
+ 
+ q^2 = 1−
+∑(yi−ypred)^2 /∑(yi−yE)^2
+
+where yi, y, and ypred are the observed, mean, and predicted activity in the training set, respectively. Final non-cross validated conventional analysis [41] was generated with the optimal number of components equal to that yielding the highest q2, and the corresponding conventional correlation coefﬁcient rncv2 was obtained. In addition, the statistical signiﬁcance of the models was described by its standard error of estimate (SEE) and the probability value (F-value).
+
+
+
+ 
+  
 -------
 
 # paper resource
@@ -256,6 +274,10 @@ NC49
 
 
   https://docs.google.com/document/d/1hxyEAX1HBz_scmZbFqi1qZRL8p4mmGMCwJR4MpJ4nH8/edit?usp=sharing
+  
+  Insights into the Structural Requirements of Potent Brassinosteroids as Vegetable Growth Promoters Using Second-Internode Elongation as Biological Activity: CoMFA and CoMSIA Studies
+  
+  https://docs.google.com/document/d/1hIdckpnM92W3Z-U4jmneOhsVynhIPrCw66uQ1qPhLX0/edit?usp=sharing
   
   have fun:)
   
